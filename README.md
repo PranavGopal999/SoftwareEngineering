@@ -1,2 +1,2 @@
 # SoftwareEngineering
-CSCI-430
+CSCI-430 class Project
